@@ -4,7 +4,7 @@
 ## What it is
 The aorta is the main artery that carries blood out of the heart to the rest of the body. Blood flows out of the heart and into the aorta through the aortic valve. In aortic stenosis, the aortic valve does not open fully. This decreases blood flow from the heart.
 
-[alt text](aorta.jpeg)
+![alt text](aorta.jpeg)
 
 
 ## Treatment
