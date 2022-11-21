@@ -18,6 +18,15 @@ Light-Hearted's need: half of these echos scans end up being normal. By having L
 
 Valvular Heart Diseases are more prevalent in more deprived socioeconomic groups (even in a high-income country such as the UK) places VHD among the group of diseases that disproportionately affects the poor. 
 
+Around 1.5m people in the UK aged 65 or over are thought to have heart valve disease, including aortic stenosis and mitral regurgitation. Estimates suggest this will double by 2046 and rise to 3.3m in 2056. This is due to an ageing population.
+
+Timely treatment is important because the risk of dying from valve disease is greater the longer the patient lives with it. It can also become severe and cause heart failure.
+
+Treatment either involves surgery to repair or replace the faulty valve, or a procedure such as a transcatheter aortic valve implantation (TAVI) to insert a new valve without removing the damaged one.
+
+One way GPs can improve detection rates in their area is to auscultate – listen to the heart using a stethoscope – when patients present with symptoms typical of heart valve disease such as breathlessness and chest pain.
+
+
 A recent study by Moore et al. (2016) estimated the incremental expenditures related to VHD at $23.4 with a range as high as $36.8 billion in 2011.
 
 Surgical intervention with the newer technologies for valve repair and replacement offer the potential for restorative treatment, improved quality of life and increased lifespan. However, many individuals are asymptomatic and undiagnosed. These individuals often present at a moderate-to-severe state, which limits treatment options. 
