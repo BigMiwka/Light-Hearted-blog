@@ -12,7 +12,7 @@ Almost 100,000 people with serious heart problems, including some “living on b
 Figures showed that in December 2021, there were more than 80,000 people that had to wait more than 6 weeks for a heart ultrasound. In January 2022, compared to January 2020, there were 48% more patients were waiting more than 6 weeks for an echocardiogram. 
 
 
-Light-Hearted's need: half of these echos scans end up being normal. By having Light-Hearted at primary care allows to stramline this long waitlist and avoid having unnecessary normal scans.
+Light-Hearted's need: half of these echos scans end up being normal. By having Light-Hearted at primary care allows to streamline this long waitlist and avoid having unnecessary normal scans.
 
 ## Echocardiogram backlogs
 
