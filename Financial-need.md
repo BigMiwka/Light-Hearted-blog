@@ -9,5 +9,7 @@ Dr Sonya Babu-Narayan, our Associate Medical Director and Consultant Cardiologis
 
 Almost 100,000 people with serious heart problems, including some “living on borrowed time”, are enduring long waits for potentially life-saving NHS care because hospitals are so busy. They are waiting for procedures such as having a stent or balloon inserted to reopen a blocked artery, a pacemaker or implantable defibrillator fitted, or open heart surgery, including bypasses or valve replacement operations. Others urgently need to have an echocardiogram, CT or MRI scan to help doctors decide on treatment.
 
-Figures showed that in December 2021, there were more than 80,000 people that had to wait more than 6 weeks for a heart ultrasound. In January 2022, compared to January 2020, there were 48% more patients were waiting more than 6 weeks for an echocardiogram.
+Figures showed that in December 2021, there were more than 80,000 people that had to wait more than 6 weeks for a heart ultrasound. In January 2022, compared to January 2020, there were 48% more patients were waiting more than 6 weeks for an echocardiogram. Furthermore, half of this echo scans end up being normal. 
+
+
 
