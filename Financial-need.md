@@ -14,5 +14,12 @@ Figures showed that in December 2021, there were more than 80,000 people that ha
 
 Light-Hearted's need: half of these echos scans end up being normal. By having Light-Hearted at primary care allows to streamline this long waitlist and avoid having unnecessary normal scans.
 
-## Echocardiogram backlogs
+## Undiagnosed Valvular Heart Diseases
+
 Valvular Heart Diseases are more prevalent in more deprived socioeconomic groups (even in a high-income country such as the UK) places VHD among the group of diseases that disproportionately affects the poor. 
+
+A recent study by Moore et al. (2016) estimated the incremental expenditures related to VHD at $23.4 with a range as high as $36.8 billion in 2011.
+
+Surgical intervention with the newer technologies for valve repair and replacement offer the potential for restorative treatment, improved quality of life and increased lifespan. However, many individuals are asymptomatic and undiagnosed. These individuals often present at a moderate-to-severe state, which limits treatment options. 
+
+A potential policy option to address this is via a more rigorous effort around detection, possibly through a covered screening program for individuals at risk for VHDThe US government passed the Screening Abdominal Aortic Aneurysms Very Efficiently Act, which mandated The Centers for Medicare and Medicaid Services to cover a one-time ultrasound scan in men aged 65 to 75 who have ever smoked beginning in 2007. The promotion and screening for AAA has been shown to improve clinical outcomes while being cost-effective. The clinical and economic benefits from AAA screening may translate to similar benefits for those at risk of VHD.
