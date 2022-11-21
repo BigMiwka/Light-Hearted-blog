@@ -15,4 +15,4 @@ Figures showed that in December 2021, there were more than 80,000 people that ha
 Light-Hearted's need: half of these echos scans end up being normal. By having Light-Hearted at primary care allows to streamline this long waitlist and avoid having unnecessary normal scans.
 
 ## Echocardiogram backlogs
-
+Valvular Heart Diseases are more prevalent in more deprived socioeconomic groups (even in a high-income country such as the UK) places VHD among the group of diseases that disproportionately affects the poor. 
