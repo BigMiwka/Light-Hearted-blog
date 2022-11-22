@@ -1,13 +1,15 @@
+# Valvular Heart Diseases
 
-# Aortic Stenosis
 
-## What it is
+## Aortic Stenosis
+
+### What it is
 The aorta is the main artery that carries blood out of the heart to the rest of the body. Blood flows out of the heart and into the aorta through the aortic valve. In aortic stenosis, the aortic valve does not open fully. This decreases blood flow from the heart.
 
 ![alt text](aorta.jpeg)
 
 
-## Treatment
+### Treatment
 The treatment plan for your aortic stenosis depends on how severe your condition is.
 
 If your case is mild or moderate, your doctor may decide to keep an eye on how you’re doing for a while. You’ll get regular checkups and echocardiograms. You may hear this called “watchful waiting,” and even if your stenosis is severe, your doctor may recommend it if you have no symptoms.
@@ -33,3 +35,6 @@ You and your doctor will probably also talk about whether you should take aspiri
 
 Procedures
 If your aortic stenosis needs more aggressive treatment, you may have choices. Some procedures repair your faulty valve. Others replace it.
+
+## Valvular Heart Disease and the Sthetoscope
+
