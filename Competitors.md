@@ -3,7 +3,6 @@ At the GP practice, in order to diagnose valvular heart disease, the GP will con
 Doctors are not good at diagnosing through auscultation, so if there is suspected valvular heart disease the GP will refer the patient for:
 
 1. Echocardiography. This test assesses the structure of your heart, the heart valves and the blood flow through your heart. An echocardiogram helps your doctor get a close look at the heart valves and how well they're working. Doctors may also use a 3D echocardiogram.
-
 In another type of echocardiogram called a transesophageal echocardiogram, a small transducer attached to the end of a tube is inserted down the tube leading from your mouth to your stomach (esophagus). This test helps your doctor get a closer look at the heart valves than is possible with a regular echocardiogram.
 
 2. Electrocardiogram (ECG). Wires (electrodes) attached to pads on your skin measure electrical impulses from your heart. An ECG can detect enlarged chambers of your heart, heart disease and abnormal heart rhythms.
