@@ -1,0 +1,27 @@
+# Roadmap for the model development
+---
+
+## Introduction to the problem
+
+Artificial intelligence, or simply AI, is the simulation of intelligence processes using sophisticated mathematical computations.
+by computer systems. In our case, it is a classification problem, because the status of heart should be identified using phonocardiogram (PCG) signals. 
+
+
+The input PCG data is fed into the deployed model and the output states that the heart is either normal or unhealthy. To develop the model, it should be trained by some train data, and there are some public datasets, 
+such as PhysioNet/CinC and PASCAL, which contain of thousands of the labeled PCG signals. To analyze such complex data, it is recommended to use the deep neural networks which has multiple inter-connected layers with hundreds of neurons.
+
+## Data preprocessing 
+
+The data should be prepared for the model development for the better results. For this, there are several stages that should be followed to form a preprocessing pipeline.
+* Data resampling - The PCG signals can be recorded at different environments with different tools. So, the sampling frequencies are different, and that is why the data should be re-collected at the certain frequency. 
+* Noise removal - The signal data can hold a random noise, and this can cause the technical difficulties for the algorithms. The efficient noise removal is required to achieve the better model, and there are some mathematical methods to clean the signal data from random noises.
+* Signal windowing - The PCG signals can be in different lengths. The input data should be in a fixed size and, therefore, it should be fragmented into the sound chunks.
+* Spectrogram conversion - The signals are in a form of time domain. However, the recent studies show that the spectrogram data gives a better accuracy. That is why the signals are converted into 2-dimensional spectrograms using mathematical transformations such as short time Fourier transform.
+
+## Model architecture  
+
+Nowadays, there are many AI algorithms which can be used for our problem. This problem has been studied for several times using the traditional machine learning algorithms such as Random Forest and Support Vector Machine. However, their accuracy is not so high, and the overfitting issues are experienced in some cases.
+
+The recent studies offer that the application of deep neural networks is a better choice for this problem. CNN-based deep neural networks use a 2-D image input data, and it is better to use convolutional layers for feature detection. 
+The fundamental theory of ML modelling says that some amount of the data is used to train the algorithm and then it is tested using the rest of the data.
+While the model depletion, the deep neural network with four fully connected CNN layers (each with 128 filters) gives 95 % accuracy on test data. 
